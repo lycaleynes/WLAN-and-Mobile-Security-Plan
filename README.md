@@ -4,7 +4,7 @@
 
 <p>As wireless and mobile technologies continue to grow in presence and popularity, the world is becoming more and more connected. Unfortunately, this also means that devices and networks are becoming more and more vulnerable to outside threats. Businesses must identify and mitigate these vulnerabilities and threats in order to protect employees’ personal information and ensure the organization is secure from passive leaking of proprietary information.</p> 
 
-<p>In this task I have assumed the role of an IT professional who is responsible for identifying wireless and mobile vulnerabilities, as outlined in the scenario below. I have presented my findings and recommend solutions to mitigate these risks and prevent future threats below.</p>
+<p>In this project I have assumed the role of an IT professional who is responsible for identifying wireless and mobile vulnerabilities, as outlined in the scenario below. I have presented my findings and recommend solutions to mitigate these risks and prevent future threats below.</p>
 
 <h2>Scenario</h2>
 
